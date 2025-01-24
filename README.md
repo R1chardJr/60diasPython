@@ -7,4 +7,5 @@ Nesse repositorio será colocado os programas do desafio 60 dias de python do cu
 - [x] Dia 4 - Laço de repetição usando for e while
 - [x] Dia 5 - Funçao que imprime o quadrado de um numero
 - [x] Dia 6 - Lista de frutas
-- [ ]Dia 7 -
+- [x]Dia 7 - Dicionario de aluno dinamico e estatico
+- [ ]Dia 8 -
