@@ -9,4 +9,6 @@ Nesse repositorio será colocado os programas do desafio 60 dias de python do cu
 - [x] Dia 6 - Lista de frutas
 - [x] Dia 7 - Dicionario de aluno dinamico e estatico
 - [x] Dia 8 - Verificando idade para poder dirigir
-- [ ] Dia 9 -
+- [x] Dia 9 - Contador personalizado
+- [ ] Dia 10 -
+ 
