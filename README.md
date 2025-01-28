@@ -10,5 +10,6 @@ Nesse repositorio será colocado os programas do desafio 60 dias de python do cu
 - [x] Dia 7 - Dicionario de aluno dinamico e estatico
 - [x] Dia 8 - Verificando idade para poder dirigir
 - [x] Dia 9 - Contador personalizado
-- [ ] Dia 10 -
+- [x] Dia 10 - Gerador de senhas particular
+- [ ] Dia 11 -
  
