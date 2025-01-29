@@ -11,5 +11,6 @@ Nesse repositorio será colocado os programas do desafio 60 dias de python do cu
 - [x] Dia 8 - Verificando idade para poder dirigir
 - [x] Dia 9 - Contador personalizado
 - [x] Dia 10 - Gerador de senhas particular
-- [ ] Dia 11 -
+- [x] Dia 11 - Funcao sorted() para ordenar lista de numeros
+- [ ] Dia 12 -
  
