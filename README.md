@@ -13,4 +13,5 @@ Nesse repositorio será colocado os programas do desafio 60 dias de python do cu
 - [x] Dia 10 - Gerador de senhas particular
 - [x] Dia 11 - Funcao sorted() para ordenar lista de numeros
 - [x] Dia 12 - Busca linear utilizando listas
-- [ ] Dia 13 - 
+- [x] Dia 13 - Fatorial de um numero com recursao
+- [ ] Dia 14
