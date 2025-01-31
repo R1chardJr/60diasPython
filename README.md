@@ -15,4 +15,5 @@ Nesse repositorio será colocado os programas do desafio 60 dias de python do cu
 - [x] Dia 12 - Busca linear utilizando listas
 - [x] Dia 13 - Fatorial de um numero com recursao
 - [x] Dia 14 - Verificador de numero primo
-- [ ] Dia 15 -
+- [x] Dia 15 - Sequencia de fibonacci
+- [ ] Dia 16 - 
