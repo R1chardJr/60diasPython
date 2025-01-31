@@ -17,4 +17,5 @@ Nesse repositorio será colocado os programas do desafio 60 dias de python do cu
 - [x] Dia 14 - Verificador de numero primo
 - [x] Dia 15 - Sequencia de fibonacci
 - [x] Dia 16 - Anagramas
-- [ ] Dia 17 -
+- [x] Dia 17 - Palindromo
+- [ ] Dia 18 -
