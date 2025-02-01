@@ -19,4 +19,5 @@ Nesse repositorio será colocado os programas do desafio 60 dias de python do cu
 - [x] Dia 16 - Anagramas
 - [x] Dia 17 - Palindromo
 - [x] Dia 18 - Contar palavras de uma frase
-- [ ] Dia 19 - 
+- [x] Dia 19 - Calculo da media das notas
+- [ ] Dia 20 -
