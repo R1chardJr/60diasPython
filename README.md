@@ -18,4 +18,5 @@ Nesse repositorio será colocado os programas do desafio 60 dias de python do cu
 - [x] Dia 15 - Sequencia de fibonacci
 - [x] Dia 16 - Anagramas
 - [x] Dia 17 - Palindromo
-- [ ] Dia 18 -
+- [x] Dia 18 - Contar palavras de uma frase
+- [ ] Dia 19 - 
