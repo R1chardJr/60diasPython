@@ -22,4 +22,5 @@ Nesse repositorio será colocado os programas do desafio 60 dias de python do cu
 - [x] Dia 19 - Calculo da media das notas
 - [x] Dia 20 - Gerando a transposta de uma matriz
 - [x] Dia 21 - Conversor de moeda
-- [ ] Dia 22
+- [x] Dia 22 - Calcular IMC
+- [ ] Dia 23 -
