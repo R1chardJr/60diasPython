@@ -21,4 +21,5 @@ Nesse repositorio será colocado os programas do desafio 60 dias de python do cu
 - [x] Dia 18 - Contar palavras de uma frase
 - [x] Dia 19 - Calculo da media das notas
 - [x] Dia 20 - Gerando a transposta de uma matriz
-- [ ] Dia 21 -
+- [x] Dia 21 - Conversor de moeda
+- [ ] Dia 22

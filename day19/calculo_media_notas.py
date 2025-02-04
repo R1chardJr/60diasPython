@@ -1,6 +1,6 @@
 def calcular_media_notas(notas):
     """
-    Calcular a medida das notas 
+    Calcular a medida das notas   
     :param notas: lista de notas
     :return: float da media das notas
     """
