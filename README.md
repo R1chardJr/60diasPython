@@ -23,4 +23,5 @@ Nesse repositorio será colocado os programas do desafio 60 dias de python do cu
 - [x] Dia 20 - Gerando a transposta de uma matriz
 - [x] Dia 21 - Conversor de moeda
 - [x] Dia 22 - Calcular IMC
-- [ ] Dia 23 -
+- [x] Dia 23 - Jogo advinhacao
+- [ ] Dia 24 -
