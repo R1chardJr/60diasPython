@@ -25,4 +25,5 @@ Nesse repositorio será colocado os programas do desafio 60 dias de python do cu
 - [x] Dia 22 - Calcular IMC
 - [x] Dia 23 - Jogo advinhacao
 - [x] Dia 24 - Tabuada de 1 a 10 do numero n
-- [ ] Dia 25 -
+- [x] Dia 25 - Gerador de numeros aleatorios
+- [ ] Dia 26 -
