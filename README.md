@@ -24,4 +24,5 @@ Nesse repositorio será colocado os programas do desafio 60 dias de python do cu
 - [x] Dia 21 - Conversor de moeda
 - [x] Dia 22 - Calcular IMC
 - [x] Dia 23 - Jogo advinhacao
-- [ ] Dia 24 -
+- [x] Dia 24 - Tabuada de 1 a 10 do numero n
+- [ ] Dia 25 -
