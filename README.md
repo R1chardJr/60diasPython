@@ -26,4 +26,5 @@ Nesse repositorio será colocado os programas do desafio 60 dias de python do cu
 - [x] Dia 23 - Jogo advinhacao
 - [x] Dia 24 - Tabuada de 1 a 10 do numero n
 - [x] Dia 25 - Gerador de numeros aleatorios
-- [ ] Dia 26 -
+- [x] Dia 26 - Manipulando arquivos
+- [ ] Dia 27 - 
