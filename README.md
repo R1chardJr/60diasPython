@@ -28,4 +28,5 @@ Nesse repositorio será colocado os programas do desafio 60 dias de python do cu
 - [x] Dia 25 - Gerador de numeros aleatorios
 - [x] Dia 26 - Manipulando arquivos
 - [x] Dia 27 - Conversor de temperaturas
-- [ ] Dia 28 -
+- [x] Dia 28 - Cronometro
+- [ ] Dia 29 -
