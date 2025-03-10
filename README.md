@@ -30,4 +30,4 @@ Nesse repositorio será colocado os programas do desafio 60 dias de python do cu
 - [x] Dia 27 - Conversor de temperaturas
 - [x] Dia 28 - Cronometro
 - [x] Dia 29 - Gerador de data e hora atual
-- [ ] Dia 30 -
+- [x] Dia 30 - Cronometro de 10 segundos
