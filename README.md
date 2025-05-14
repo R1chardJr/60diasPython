@@ -32,4 +32,4 @@ Nesse repositorio será colocado os programas do desafio 60 dias de python do cu
 - [x] Dia 29 - Gerador de data e hora atual
 - [x] Dia 30 - Cronometro de 10 segundos
 - [x] Dia 31 - Calculo de raiz quadrada
-- [ ] Dia 32 -
+- [x] Dia 32 - Simulando lançamento de dado
