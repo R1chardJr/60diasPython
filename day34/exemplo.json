@@ -1,0 +1,10 @@
+{
+    "nome": "Richard",
+    "idade": 22,
+    "cidade": "São José dos Campos",
+    "interesses": [
+        "programação",
+        "IA",
+        "Machines Learning"
+    ]
+}

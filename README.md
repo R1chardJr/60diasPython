@@ -34,3 +34,4 @@ Nesse repositorio será colocado os programas do desafio 60 dias de python do cu
 - [x] Dia 31 - Calculo de raiz quadrada
 - [x] Dia 32 - Simulando lançamento de dado
 - [x] Dia 33 - Contagem da ocorrencia de itens em uma lista
+- [x] Dia 34 - Manipulando arquivos JSON
