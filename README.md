@@ -36,3 +36,4 @@ Nesse repositorio será colocado os programas do desafio 60 dias de python do cu
 - [x] Dia 33 - Contagem da ocorrencia de itens em uma lista
 - [x] Dia 34 - Manipulando arquivos JSON
 - [x] Dia 35 - Usando API para pegar piadas do Chuck Norris e dps traduzi-las com googletranslator
+- [x] Dia 36 - Criando um crawler
