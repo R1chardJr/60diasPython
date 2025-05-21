@@ -41,3 +41,4 @@ Nesse repositorio será colocado os programas do desafio 60 dias de python do cu
 - [x] Dia 38 - Conversa geppeto
 - [x] Dia 39 - Plotando graficos com plotex
 - [x] Dia 40 - POO com personagens Naruto
+- [x] Dia 41 - Trabalhando com herança em POO
