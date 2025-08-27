@@ -43,3 +43,5 @@ Nesse repositorio será colocado os programas do desafio 60 dias de python do cu
 - [x] Dia 40 - POO com personagens Naruto
 - [x] Dia 41 - Trabalhando com herança em POO
 - [x] Dia 42 - Modulo OS
+- [x] Dia 43 - Lidando com erros em python
+- [ ] Dia 44 - 
