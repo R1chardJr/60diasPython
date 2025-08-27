@@ -45,4 +45,4 @@ Nesse repositorio será colocado os programas do desafio 60 dias de python do cu
 - [x] Dia 42 - Modulo OS
 - [x] Dia 43 - Lidando com erros em python
 - [x] Dia 44 - Validando e-mails com regex
-- [ ] Dia 45 - 
+- [x] Dia 45 - Utilizando threads para executar multitarefas
