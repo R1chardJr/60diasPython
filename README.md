@@ -49,3 +49,4 @@ Nesse repositorio será colocado os programas do desafio 60 dias de python do cu
 - [X] Dia 46 - Utilizando sockets 
 - [x] Dia 47 - Decorators
 - [x] Dia 48 - Generators
+- [x] Dia 49 - Acessando SQLite3 e manipulando db
