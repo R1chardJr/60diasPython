@@ -53,3 +53,4 @@ Nesse repositorio será colocado os programas do desafio 60 dias de python do cu
 - [x] Dia 50 - Automatizando clicks com pyautogui
 - [x] Dia 51 - Scrapping com BeautifulSoup
 - [x] Dia 52 - Plotando gráficos com matplotlib
+- [X] Dia 53 - Opencv
