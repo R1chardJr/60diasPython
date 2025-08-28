@@ -54,3 +54,4 @@ Nesse repositorio será colocado os programas do desafio 60 dias de python do cu
 - [x] Dia 51 - Scrapping com BeautifulSoup
 - [x] Dia 52 - Plotando gráficos com matplotlib
 - [X] Dia 53 - Opencv
+- [x] Dia 54 - Exploratory Data Analysis
