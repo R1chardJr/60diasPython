@@ -51,3 +51,4 @@ Nesse repositorio será colocado os programas do desafio 60 dias de python do cu
 - [x] Dia 48 - Generators
 - [x] Dia 49 - Criando e manipulando banco de dados SQLite3 
 - [x] Dia 50 - Automatizando clicks com pyautogui
+- [x] Dia 51 - Scrapping com BeautifulSoup
